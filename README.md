@@ -6,7 +6,7 @@ Here are some ideas to get you started:-->
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=Welcome%20to%20MY%20GitHub!&fontSize=50)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongHwanJung&show_icons=true&theme=github_dark)
 
