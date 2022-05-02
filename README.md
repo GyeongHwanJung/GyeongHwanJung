@@ -4,7 +4,7 @@ Here are some ideas to get you started:-->
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp;&nbsp;Welcome%20to%20Hwan's%20GitHub!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp;&nbsp;text=Welcome%20to%20Hwan's%20GitHub!&fontSize=45)
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)-->
 
