@@ -4,7 +4,7 @@ Here are some ideas to get you started:-->
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=Welcome!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=Welcome!&fontSize=55)
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)-->
 
