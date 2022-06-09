@@ -4,12 +4,13 @@ Here are some ideas to get you started:-->
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=Welcome%20to%20Hwan's%20GitHub!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=42C2FF&height=200&section=header&text=Welcome!&fontSize=45)
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongHwanJung&show_icons=true&theme=github_dark)
 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongHwanJung&count_bg=%233D91C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning ML/DL, CV
