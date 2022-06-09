@@ -12,21 +12,23 @@ Here are some ideas to get you started:-->
 
 🌱 I’m currently learning ML/DL, CV
   
-## 🛠 Tech Stacks
+## 🛠 Stacks
 
-<img src="https://img.shields.io/badge/python-3670A0?style=round-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
-## 🗂 Cowork Tools
+## 🗂 Colaboratory
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agit-4674DB?style=round-square&logo=Agit&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agit-4674DB?style=for-the-badge&logo=Agit&logoColor=white"/>  
   
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongHwanJung&count_bg=%233D91C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+## 📞 Contact
   
 </a> <a href="mailto:cheers3214@gmail.com">
 <img
@@ -35,6 +37,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongHwanJung&count_bg=%233D91C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
