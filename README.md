@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongHwanJung&layout=compact&theme=github_dark)](https://github.com/GyeongHwanJung/github-readme-stats)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongHwanJung&show_icons=true&theme=github_dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyeongHwanJung&show_icons=true&theme=github_dark) -->
 
 <!-- 🌱 I’m currently learning ML/DL, CV
   
